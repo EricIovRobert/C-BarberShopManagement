@@ -1,5 +1,5 @@
 # Cpp-BarberShopManagement
-PROIECT IN ECHIPA! 
+PROIECT IN ECHIPA!  
 Proiect de Programare / C++ -= Frizerie =-
 
 Student 1: Iov Eric-Robert
