@@ -1,5 +1,5 @@
 # Cpp-BarberShopManagement
-TEAM PROJECT!  
+PROIECT IN ECHIPA! 
 Proiect de Programare / C++ -= Frizerie =-
 
 Student 1: Iov Eric-Robert
@@ -68,4 +68,80 @@ Aplicația 2 va expune următoarele posibilități:  ./app\_2.exe vizualizare\_o
 
 ./app\_2.exe istoric  
 
-- vede istoricul programarilor sale  
+- vede istoricul programarilor sale
+
+-------------------------------------------------------------------------------------------------------
+# Cpp-BarberShopManagement
+TEAM PROJECT!  
+Programming Project / C++ -= Barber Shop =-
+
+Student 1: Iov Eric-Robert
+
+Student 2: A colleague
+
+## *Statement*  
+
+Student 1 is in charge of managing the barbershop:  
+
+- adding, modifying, deleting offers (e.g., classic haircut - 20 ron - 25 min, buzz cut - 15 ron - 15 min, wash + blow-dry - 15 ron etc. - 10 min)  
+- accepting made appointments  
+
+Student 2 is responsible for scheduling appointments:  
+
+- viewing the catalog of offers  
+- scheduling a session within a valid interval  
+- viewing the history of their appointments (both past and upcoming)  
+
+## *Data Structure* 
+
+*used by the team* 
+
+3. We will use the following classes:  
+   1. Date: int day, int month, int year, int hour  
+   2. Appointment[]: Date date, Offer[] chosen_offer, int accept  
+   3. Offers[]: string offer, double price, int duration  
+
+## *File Structure* 
+
+We will use the following files:  
+
+- appointments.txt  
+  - file to store details about appointments in the form <nr_appointments>  
+
+  <appointment> 
+
+- offers.txt  
+  - file to store details about offers  
+
+  <nr_offers> <offer>  
+
+*IV. Interaction with Executables*  
+
+Application 1 will add, modify, delete offers, accept made appointments: ./app_1.exe add_offer <offer> <price> <duration>   
+
+- for adding an offer  
+
+./app_1.exe accept_offer <date>< chosen_offer >< accept > 
+
+- to accept an appointment 
+
+./app_1.exe modify_offer <offer> <price> <duration>   
+
+- for modifying an offer  
+
+./app_1.exe delete_offer <offer_number>  
+
+- to delete an offer  
+
+Application 2 will expose the following possibilities:  ./app_2.exe view_offers  
+
+- to view all offers  
+
+./app_2.exe valid_appointment <date>< chosen_offer >< accept > 
+
+- to schedule a session within a valid interval  
+
+./app_2.exe history  
+
+- to view the history of appointments  
+
