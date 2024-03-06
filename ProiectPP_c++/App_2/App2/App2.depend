@@ -1,10 +1,14 @@
 # depslib dependency file v1.0
-1685352652 source:c:\users\thinkbook\desktop\proiectpp_c++\app 1\app1\main.cpp
+1688231909 source:c:\users\thinkbook\desktop\proiectpp_c++\app_2\app2\main.cpp
 	<iostream>
 	<vector>
+	<fstream>
+	<map>
+	<list>
 	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Data.h"
 	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Oferte.h"
 	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Programare.h"
+	<cstring>
 
 1685358415 c:\\users\\thinkbook\\desktop\\proiectpp_c++\\shared\\data\\data.h
 	<iostream>
@@ -19,14 +23,4 @@
 	<vector>
 	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Data.h"
 	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Oferte.h"
-
-1688232448 source:c:\users\thinkbook\desktop\proiectpp_c++\app_1\app1\main.cpp
-	<iostream>
-	<vector>
-	<fstream>
-	<cstring>
-	<algorithm>
-	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Data.h"
-	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Oferte.h"
-	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Programare.h"
 

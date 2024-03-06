@@ -1,7 +1,4 @@
-5
-Tuns scurt 20 15 
-Tuns zero 15 10 
-Tuns baban 50 50 
-Tuns extra 60 45 
-Tuns femei 200 60 
-
+3
+Spalare_si_uscare 25 30
+Tuns_zero 20 15
+Tuns_scurt 20 45

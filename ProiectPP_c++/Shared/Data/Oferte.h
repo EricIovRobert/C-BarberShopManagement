@@ -15,9 +15,18 @@ public:
     double get_pret(){return pret;};
     int get_durata(){return durata;};
     friend ostream & operator << (ostream &, const Oferte &);
+    void modif_durata(int durata)
+    {
+        this->durata=durata;
+    }
+    void modif_pret(int pret)
+    {
+        this->pret=pret;
+    }
+
 };
 ostream & operator << (ostream &st, const Oferte &o){
-  st <<o.oferta<<" "<<o.pret<<" "<<o.durata;
+  st <<o.oferta<<" pret: "<<o.pret<<", durata: "<<o.durata;
   return st;
 }
 Oferte::Oferte()
