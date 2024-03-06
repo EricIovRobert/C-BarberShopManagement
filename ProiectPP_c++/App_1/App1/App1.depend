@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1685352652 source:c:\users\thinkbook\desktop\proiectpp_c++\app 1\app1\main.cpp
+	<iostream>
+	<vector>
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Data.h"
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Oferte.h"
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Programare.h"
+
+1685358415 c:\\users\\thinkbook\\desktop\\proiectpp_c++\\shared\\data\\data.h
+	<iostream>
+	<vector>
+
+1685358415 c:\\users\\thinkbook\\desktop\\proiectpp_c++\\shared\\data\\oferte.h
+	<iostream>
+	<vector>
+
+1685358314 c:\\users\\thinkbook\\desktop\\proiectpp_c++\\shared\\data\\programare.h
+	<iostream>
+	<vector>
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Data.h"
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Oferte.h"
+
+1685362996 source:c:\users\thinkbook\desktop\proiectpp_c++\app_1\app1\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstring>
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Data.h"
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Oferte.h"
+	"C:\\Users\\ThinkBook\\Desktop\\ProiectPP_c++\\Shared\\Data\\Programare.h"
+

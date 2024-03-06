@@ -1,0 +1,7 @@
+5
+Tuns scurt 20 15 
+Tuns zero 15 10 
+Tuns baban 50 50 
+Tuns extra 60 45 
+Tuns femei 200 60 
+
