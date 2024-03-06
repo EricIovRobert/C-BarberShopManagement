@@ -1,2 +1,2 @@
-# C-BarberShopManagement
+# Cpp-BarberShopManagement
 TEAM PROJECT!
